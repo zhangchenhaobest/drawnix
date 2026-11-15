@@ -1,3 +1,29 @@
+# drawnix
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+An all-in-one open-source whiteboard with mind maps, flowcharts and freehand drawing.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+开源一体化白板工具，包含思维导图、流程图、自由画等。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <picture style="width: 320px">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/plait-board/drawnix/blob/develop/apps/web/public/logo/logo_drawnix_h.svg?raw=true" />
